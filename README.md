@@ -1,10 +1,12 @@
-# training-starter-kit
+# workshop-starter-kit
 
-A starter-kit/boilerplate for getting up and running quickly with a hosted version of training content powered by Markdown and Gatsby--a React static-site generator. For a complete example, check out the [react-redux-workshop][react-redux-workshop]
+A starter-kit/boilerplate for getting up and running quickly with a hosted version of workshop content powered by Markdown and Gatsby--a React static-site generator. For a complete example, check out the [react-redux-workshop][react-redux-workshop]
+
+![Example](./demo/workshop.png)
 
 ## Getting started
 
-1. Clone this repo `git clone <todofixme>`
+1. Clone (or fork) this repo `git clone git@github.com:objectpartners/workshop-starter-kit.git`
 1. Run `yarn` or `npm install`--although `yarn` is recommended
 
 ### Commands
@@ -85,5 +87,5 @@ This will get you a free, statically hosted site with a friendly URL in front of
 - If creating content for a client, turn on stage deploys and then push a new branch (i.e. `git checkout -b client-name && git push client-name`)
   - This will get you a persistent URL, i.e. client-name--your-netlify-deploy.netlify.com, that can be shared with clients for some duration after the workshop
 
-[react-redux-workshop]: https://todofixme.com
+[react-redux-workshop]: https://github.com/objectpartners/react-redux-workshop
 [netlify]: https://netlify.com
